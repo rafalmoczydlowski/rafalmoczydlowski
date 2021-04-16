@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rafalmoczydlowski
+- 👀 I’m interested in football, technology, F1, geography
+- 🌱 I’m currently learning Spring, Spring Boot, Java
